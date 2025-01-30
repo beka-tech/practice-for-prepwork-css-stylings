@@ -1,37 +1,37 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+  font-size: 2.5em; /* Example size */
+  font-family: "Arial", sans-serif; /* Example font family */
+  padding: 10px; /* Example padding */
+  margin: 0 0 20px 0; /* Example margin */
+  font-weight: bold; /* Example font weight */
+  text-decoration: none; /* Example text decoration */
+  color: #333; /* Example text color */
+  background-color: #f9f9f9; /* Example background color */
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+  font-size: 2em; /* Example size */
+  font-family: "Arial", sans-serif; /* Example font family */
+  padding: 8px; /* Example padding */
+  margin: 0 0 15px 0; /* Example margin */
+  font-weight: bold; /* Example font weight */
+  color: #444; /* Example text color */
+  background-color: #f0f0f0; /* Example background color */
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+  font-family: "Georgia", serif; /* Example font family */
+  font-size: 1em; /* Example size */
+  padding: 5px; /* Example padding */
+  margin: 0 0 10px 0; /* Example margin */
+  color: #555; /* Example text color */
+  background-color: #fff; /* Example background color */
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+  background-size: cover; /* Ensures the image covers the element */
+  background-image: url("logo.png"); /* Path to your logo image */
+  background-color: transparent; /* Example background color */
+  height: 100px; /* Example height */
+  width: 100px; /* Example width */
 }
